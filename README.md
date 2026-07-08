@@ -37,8 +37,6 @@ Better result, 0.73-0.12= 0.61
 <img width="1354" height="704" alt="image" src="https://github.com/user-attachments/assets/a6bfcaa1-387b-49c5-a169-da91d42ffce1" />
 
 # You can use new combined model
-<img width="1090" height="480" alt="image" src="https://github.com/user-attachments/assets/e38eaf12-3c0c-4afb-9894-d92cd525a06b" />
-
 <img width="1090" height="923" alt="image" src="https://github.com/user-attachments/assets/3741e6d4-97a7-452c-85d9-a76f4a5bafaa" />
 
 <img width="1090" height="786" alt="image" src="https://github.com/user-attachments/assets/c67185a8-f5c0-4626-bb95-d3c977d0a94b" />
