@@ -21,3 +21,26 @@ The gap is 0.69-0.45=0.54
 
 # Begin Fine tuning 
 <img width="801" height="806" alt="image" src="https://github.com/user-attachments/assets/2e58e0bb-a969-4fa5-93d0-9ae1408aa4c8" />
+
+# Begin to train
+<img width="1090" height="470" alt="image" src="https://github.com/user-attachments/assets/fa31bdeb-363f-45a1-9263-f857bdcfc96e" />
+Wait for half hour 
+<img width="1090" height="507" alt="image" src="https://github.com/user-attachments/assets/11cb6b60-efa7-4e3f-94e9-66f37b747202" />
+
+# Reference with new model
+<img width="1090" height="314" alt="image" src="https://github.com/user-attachments/assets/b17f9522-ecb9-4abf-adc8-e7c4b645381d" />
+Better result, 0.73-0.12= 0.61
+<img width="1090" height="314" alt="image" src="https://github.com/user-attachments/assets/f05d0daf-bc32-45a8-972d-cb2c9763b27f" />
+
+# Save as a new model which has fintuninged 
+<img width="1090" height="446" alt="image" src="https://github.com/user-attachments/assets/c3ad6578-4c8c-4c79-b00e-efca342229ab" />
+<img width="1354" height="704" alt="image" src="https://github.com/user-attachments/assets/a6bfcaa1-387b-49c5-a169-da91d42ffce1" />
+
+# You can use new combined model
+<img width="1090" height="480" alt="image" src="https://github.com/user-attachments/assets/e38eaf12-3c0c-4afb-9894-d92cd525a06b" />
+
+<img width="1090" height="923" alt="image" src="https://github.com/user-attachments/assets/3741e6d4-97a7-452c-85d9-a76f4a5bafaa" />
+
+<img width="1090" height="786" alt="image" src="https://github.com/user-attachments/assets/c67185a8-f5c0-4626-bb95-d3c977d0a94b" />
+
+
